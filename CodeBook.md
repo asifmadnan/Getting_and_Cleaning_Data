@@ -7,7 +7,7 @@ This code book summarizes the resulting data fields in `tidy.txt`.
 * `subject` - The ID of the test or train subject
 * `activity` - The type of activity performed when the corresponding measurements were taken, for each subject
 
-## Measurements
+## Target Attribute Names
 
 * `tBodyAccMeanX`
 * `tBodyAccMeanY`
