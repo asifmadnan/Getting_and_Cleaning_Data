@@ -17,3 +17,15 @@ The R script, `run_analysis.R`, does the following:
    target variable for each subject and activity pair.
 
 The end result is saved in the file `tidy.txt`.
+
+Original Data source
+
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
+Article about the data source and its related applications
+
+http://www.insideactivitytracking.com/data-science-activity-tracking-and-the-battle-for-the-worlds-top-sports-brand/
+
+Here are the data for the project:
+
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
