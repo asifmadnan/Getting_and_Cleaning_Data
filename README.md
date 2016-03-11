@@ -2,6 +2,7 @@
 
 Getting and Cleaning Data Coursera Final Assignment.
 Before analysing the data, I've downloaded the necessary data set.
+The data should be downloaded in the '.\data' sub-directory under the working directory.
 
 The R script, `run_analysis.R`, does the following:
  
